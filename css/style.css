@@ -1,0 +1,144 @@
+.mrg {
+  width: 50px;
+  display: inline-block;
+  margin-left: 100px;
+
+}
+
+.mrg .hr {
+  height: 100px ;
+  background-color: #4069FF;
+}
+
+.mrg .hd {
+  height: 50px;
+  background-color: #FEDF37;
+
+}
+
+.mrg .body {
+  height: 90px;
+  background-color: #7BD72A;
+}
+
+.mrg .legs {
+  height: 25px;
+  background-color: #FEDF37;
+}
+
+.mrg .shoes {
+  height: 20px;
+  background-color: #FF4D3B;
+
+}
+
+.hmr {
+  width: 90px;
+  display: inline-block;
+  margin-left: 100px;
+
+}
+
+.hmr .hd {
+  height: 65px;
+  background-color: #FEDF37 ;
+
+}
+
+.hmr .neck {
+  height: 25px;
+  background-color: #D7B586;
+
+}
+
+.hmr .body {
+  height: 75px;
+  background-color: #FFFFFF;
+}
+
+.hmr .legs {
+  height: 70px;
+  background-color: #3D66FE;
+}
+
+.hmr .shoes {
+  height: 25px;
+  background-color: #7D807A;
+}
+
+.brt {
+  width: 60px;
+  display: inline-block;
+  margin-left: 100px;
+}
+
+.brt .hd {
+  height: 55px;
+  background-color: #FEDF37;
+}
+
+.brt .neck {
+  height: 15px;
+  background-color: #FCA439;
+
+}
+
+.brt .body {
+  height: 25px;
+  background-color: #3C65FF;
+
+}
+
+.brt .legs {
+  height: 20px;
+  background-color: #FFDD32;
+
+}
+
+.brt .shoes {
+  height: 15px;
+  background-color: #3C65FF;
+}
+
+.liza {
+  display: inline-block;
+  width: 60px;
+  margin-left: 100px;
+
+}
+
+.liza .hd {
+  height: 55px;
+  background-color: #FFDE37;
+}
+
+.liza .body {
+  height: 40px;
+  background-color: #FF5035;
+}
+
+.liza .legs {
+  height: 20px;
+  background-color: #FFDE37;
+}
+
+.liza .shoes {
+  height: 15px;
+  background-color: #FF5035;
+}
+
+.maggy {
+  width: 45px;
+  display: inline-block;
+  margin-left: 100px;
+}
+
+.maggy .hd {
+  height: 35px;
+  background-color: #FFDE37;
+}
+
+.maggy .body {
+  height: 40px;
+  background-color: #9CD8E6;
+}
